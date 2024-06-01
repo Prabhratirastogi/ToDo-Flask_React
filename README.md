@@ -36,7 +36,7 @@ For the project you must run both development environments at the same time, bot
 
 
 ```shell
-$ git clone https://github.com/Prabhratirastogi/Todo-Flask
+$ git clone https://github.com/Prabhratirastogi/ToDo-Flask_React
 
 $ cd todo-app-flask-reactjs
 
